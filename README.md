@@ -37,11 +37,14 @@ Password: password
 
 ## 📱 Screenshots
 
-*Add screenshots of your app here*
-![img.png](img.png)![img_1.png](img_1.png)
-```
-[Login Screen] [Home Screen] [Posts Screen] [Profile Screen]
-```
+<div align="center">
+  <img src="img.png" alt="Login Screen" width="250" style="margin: 10px;"/>
+  <img src="img_1.png" alt="Home Screen" width="250" style="margin: 10px;"/>
+</div>
+
+<p align="center">
+  <em>Login Screen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Screen</em>
+</p>
 
 ## 🏛️ Architecture Overview
 
