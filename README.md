@@ -29,20 +29,16 @@ A comprehensive Flutter application demonstrating **Clean Architecture** princip
 For testing the application, use these dummy login credentials:
 
 ```
-Email: demo@example.com
-Password: password123
-
-Alternative credentials:
-Email: john@example.com  
-Password: demo123
+Email: test@example.com
+Password: password
 ```
 
-**Note**: These are mock credentials that work with the simulated authentication system.
+**Note**: These are the actual mock credentials hardcoded in the authentication system. Any other credentials will result in an "Invalid credentials" error.
 
 ## 📱 Screenshots
 
 *Add screenshots of your app here*
-
+![img.png](img.png)![img_1.png](img_1.png)
 ```
 [Login Screen] [Home Screen] [Posts Screen] [Profile Screen]
 ```
